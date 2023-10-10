@@ -26,8 +26,8 @@ Azure Container Apps is a fully managed Azure service that allows developers to 
 ### 🚀 Getting Started
 Clone the Repository
 
-``` git clone [YOUR REPO URL HERE] ```
-``` cd [YOUR REPO DIRECTORY] ```
+``` git clone https://github.com/Abhimanyu9988/azure-container-app.git ```
+``` cd azure-container-app ```
 
 Run the Deployment Script
 
